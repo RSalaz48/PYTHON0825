@@ -1,0 +1,1 @@
+print("l\ti\tn\te\ta")
